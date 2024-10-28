@@ -1,7 +1,7 @@
 {
    "name": "DARK-KNIGHT",
    "version": "2.5.0",
-   "description": "Multi device whatsapp bot by Haki.",
+   "description": "Multi device whatsapp bot by DARK-KNIGHT.",
    "main": "index.js",
    "type": "commonjs",
    "scripts": {
