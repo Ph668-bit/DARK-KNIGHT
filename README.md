@@ -1,4 +1,4 @@
-# 🤖 Haki-Md WhatsApp Bot
+# 🤖 DARK-KNIGHT WhatsApp Bot
 
 ![Haki-Md Banner](https://files.catbox.moe/bh2fpj.jpg)
 
@@ -9,7 +9,7 @@
 
 ## 🔥 Introduction
 
-**Haki-Md** is a multipurpose WhatsApp bot developed by [King Haki](https://haki.us.kg), designed to automate and enhance your WhatsApp experience. It includes features like media downloads, group management, and more.
+**DARK-KNIGHT** is a multipurpose WhatsApp bot developed by [King Haki](https://haki.us.kg), designed to automate and enhance your WhatsApp experience. It includes features like media downloads, group management, and more.
 
 ## 📸 Preview
 
